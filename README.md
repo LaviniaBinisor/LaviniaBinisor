@@ -8,7 +8,8 @@
 - 👀 I’m interested in iOS.
 - 🌱 I’m currently learning Swift and SwiftUI.
 - 💞️ I’m looking to collaborate for my first job in IT.
-- 📫 How to reach me: https://www.linkedin.com/in/lavinia-bini%C8%99or-0b2173277/ or lavinia.binisor@gmail.com
+- 📫 How to reach me: ![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/lavinia-bini%C8%99or-0b2173277/)
+ or lavinia.binisor@gmail.com
 
 <!---
 LaviniaBinisor/LaviniaBinisor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
