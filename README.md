@@ -8,7 +8,8 @@
 - 👀 I’m interested in iOS.
 - 🌱 I’m currently learning Swift and SwiftUI.
 - 💞️ I’m looking to collaborate for my first job in IT.
-- 📫 How to reach me: ![](https://www.linkedin.com/in/lavinia-bini%C8%99or-0b2173277/)
+- 📫 How to reach me: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lavinia-bini%C8%99or-0b2173277//)  
  or lavinia.binisor@gmail.com
 
 <!---
