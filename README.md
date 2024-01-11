@@ -3,8 +3,6 @@
  Hello! 👋 I am Lavinia, an aspiring developer focusing on Swift and SwiftUI techologies. Recently, I transitioned to the IT field and am continuosly growing, exploring various aspects of iOS programming.
  My goals is to enhance my skills and contribute to the developer community.
 
-![](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
-
  
 - 👀 I’m interested in iOS.
 - 🌱 I’m currently learning Swift and SwiftUI.
