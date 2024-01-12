@@ -3,7 +3,8 @@
  Hello! 👋 I am Lavinia, an aspiring developer focusing on Swift and SwiftUI techologies. Recently, I transitioned to the IT field and am continuosly growing, exploring various aspects of iOS programming.
  My goals is to enhance my skills and contribute to the developer community.
 
- 
+ ![1697103723209 (1)](https://github.com/LaviniaBinisor/CupcakeCorner/assets/136313782/4151a8cb-10f9-463e-9340-2cfa6c6499c4)
+
 - 👀 I’m interested in iOS.
 - 🌱 I’m currently learning Swift and SwiftUI.
 - 💞️ I’m looking to collaborate for my first job in IT.
